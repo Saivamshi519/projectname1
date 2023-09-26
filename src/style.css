@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+
+.row2{
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+    font-size: 35px;
+}
+
+.row3{
+    float: right;
+    padding-top: 10px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.row4{
+    width:50%;
+    float: left;
+    padding: 20px;
+    
+    
+}
+.row5{
+    width:16.66%;
+    float: left;
+    padding: 30px;
+
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    
+}
+li{
+    padding-left: 4em;
+    font-size: 50px;
+    
+    
+}
+.row7{
+   width: 33.33%;
+   height: 428px;
+   float: left;
+   padding: 15px;
+   transition: 2s;
+   
+
+}
+.row7:hover{
+    transform: scale(1.07); 
+}
+
+.row6{
+    line-height: 30px;
+    padding-left: 20em;
+    line-height: 40px;
+    font-family: "Candara Light";
+   
+}
+.row8{
+    padding: 5em;
+}
+.row9{
+    width: 33.33%;
+    padding: 3em;
+    float: left;
+    font-family: "Candara Light";
+}
+.a:hover{
+    transform: scale(0.9);
+}
